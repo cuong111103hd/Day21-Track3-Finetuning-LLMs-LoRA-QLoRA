@@ -1,0 +1,1 @@
+https://huggingface.co/cuongnd03/lab21-qwen2.5-3b-r16

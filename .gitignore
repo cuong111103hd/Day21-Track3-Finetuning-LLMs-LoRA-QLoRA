@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+*.zip
+upload.py
+
+notebooks/
+lab21_2A202600147/
+
